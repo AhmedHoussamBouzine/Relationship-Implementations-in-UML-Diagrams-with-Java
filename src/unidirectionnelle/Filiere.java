@@ -1,4 +1,4 @@
-package unidirectionnel;
+package unidirectionnelle;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package unidirectionnel;
+package unidirectionnelle;
 
 public class Etudiant {
     private long id;
