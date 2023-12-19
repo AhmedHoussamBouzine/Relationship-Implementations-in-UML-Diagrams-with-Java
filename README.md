@@ -6,7 +6,6 @@ This repository contains examples of various relationships depicted in UML (Unif
 
 - [Introduction](#introduction)
 - [UML Relationship Types](#uml-relationship-types)
-- [Folder Structure](#folder-structure)
 - [Usage](#usage)
 
 ## Introduction
